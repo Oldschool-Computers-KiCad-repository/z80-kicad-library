@@ -18,6 +18,7 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 |Company|Component|Datasheet|Packages| 1st version |
 |:------|:--------|:--------|:-------|:------------|
 | Zilog | Z8410   | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C10-Zilog.pdf) | PLCC-44 | 1.0.0 |
+| Zilog | Z8410   | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C10-Zilog.pdf) | DIP-40  | 1.0.0 |
 | Zilog | Z8C410  | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C10-Zilog.pdf) | PLCC-44 | 1.0.0 |
 | Zilog | Z8C410  | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C10-Zilog.pdf) | DIP-40  | 1.0.0 |
 
