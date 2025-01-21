@@ -21,6 +21,11 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 | Zilog | Z8410   | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C10-Zilog.pdf) | DIP-40  | 1.0.0 |
 | Zilog | Z84C10  | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C10-Zilog.pdf) | PLCC-44 | 1.0.0 |
 | Zilog | Z84C10  | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C10-Zilog.pdf) | DIP-40  | 1.0.0 |
+| Zilog | Z8430   | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C30-Zilog.pdf) | DIP-28  | 1.0.0 |
+| Zilog | Z8430   | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C30-Zilog.pdf) | PLCC-44 | 1.0.0 |
+| Zilog | Z8C430  | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C30-Zilog.pdf) | DIP-28  | 1.0.0 |
+| Zilog | Z8C430  | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C30-Zilog.pdf) | PLCC-44 | 1.0.0 |
+| Zilog | Z8C430  | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C30-Zilog.pdf) | LQFP-44 | 1.0.0 |
 
 
 ### 1.2 Footprints
