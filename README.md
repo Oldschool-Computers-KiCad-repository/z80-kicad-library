@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/Oldschool-Computers-KiCad-repository/z80-kicad-library)
 ![Downloads](https://img.shields.io/github/downloads/Oldschool-Computers-KiCad-repository/z80-kicad-library/total)
 
-This is a libray for KiCad 7.0 and higher.
+This is a libray for KiCad 7.0 and higher.  
 It contains symbols of components from Zilog and other companies.  
 This repository is not endorsed by any company and has no connection with any company.
 
