@@ -76,6 +76,24 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 | ST    | Z84C44BC6 | Z80 CMOS SIO 6 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C40-ST.pdf) | PLCC-44 | 1.0.0 |
 |       |           |                    |                                                                    |         |       |
 
+#### 1.1.a Z80_ST.kicad_sym
+|Company|Component|Description|Datasheet|Packages| 1st version |
+|:------|:--------|:----------|:--------|:-------|:------------|
+| Zilog | Z84C9008ASC | CMOS Z80 KIO Serial/Parallel Counter/Timer 8 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | LQFP-100 | 1.0.0 |
+| Zilog | Z84C9008ASG | CMOS Z80 KIO Serial/Parallel Counter/Timer 8 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | LQFP-100 | 1.0.0 |
+| Zilog | Z84C9008VEC | CMOS Z80 KIO Serial/Parallel Counter/Timer 8 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | PLCC-84  | 1.0.0 |
+| Zilog | Z84C9008VEG | CMOS Z80 KIO Serial/Parallel Counter/Timer 8 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | PLCC-84  | 1.0.0 |
+| Zilog | Z84C9008VSC | CMOS Z80 KIO Serial/Parallel Counter/Timer 8 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | PLCC-84  | 1.0.0 |
+| Zilog | Z84C9008VSG | CMOS Z80 KIO Serial/Parallel Counter/Timer 8 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | PLCC-84  | 1.0.0 |
+| Zilog | Z84C9010ASC | CMOS Z80 KIO Serial/Parallel Counter/Timer 10 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | LQFP-100 | 1.0.0 |
+| Zilog | Z84C9010ASG | CMOS Z80 KIO Serial/Parallel Counter/Timer 10 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | LQFP-100 | 1.0.0 |
+| Zilog | Z84C9010VEG | CMOS Z80 KIO Serial/Parallel Counter/Timer 10 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | PLCC-84  | 1.0.0 |
+| Zilog | Z84C9010VSC | CMOS Z80 KIO Serial/Parallel Counter/Timer 10 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | PLCC-84  | 1.0.0 |
+| Zilog | Z84C9010VSG | CMOS Z80 KIO Serial/Parallel Counter/Timer 10 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | PLCC-84  | 1.0.0 |
+| Zilog | Z84C9012VSC | CMOS Z80 KIO Serial/Parallel Counter/Timer 12 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | PLCC-84  | 1.0.0 |
+| Zilog | Z84C9012VSG | CMOS Z80 KIO Serial/Parallel Counter/Timer 12 MHz | [datasheet](https://datasheets.alba0404.fr/data/Z80/Z84C90-Zilog.pdf) | PLCC-84  | 1.0.0 |
+|       |           |                    |                                                                    |         |       |
+
 
 ### 1.2 Footprints
 
